@@ -1,0 +1,21 @@
+.loginwrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.logincard{
+    width: 30vw;
+    margin-top: 5%;
+}
+
+.reels-logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.reels-logo img{
+    width: 30vw;
+}

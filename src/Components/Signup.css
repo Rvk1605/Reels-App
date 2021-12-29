@@ -1,0 +1,24 @@
+.signupwrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.signupcard{
+    width: 30vw;
+    margin-top: 2%;
+}
+
+.reels-logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@media only screen and (max-width:620px) {
+    .signupcard{
+        width:60%
+    }
+    .reels-logo img{
+        width:35%
+    }
+}
